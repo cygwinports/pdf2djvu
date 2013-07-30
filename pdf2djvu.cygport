@@ -1,12 +1,12 @@
 NAME="pdf2djvu"
-VERSION=0.7.15
+VERSION=0.7.17
 RELEASE=1
 CATEGORY="Graphics"
 SUMMARY="PDF to DjVu converter"
 DESCRIPTION="pdf2djvu creates DjVu files from PDF files. It's able to extract
 graphics, text, hyperlinks, bookmarks, and metadata."
 HOMEPAGE="http://code.google.com/p/pdf2djvu/"
-SRC_URI="http://pdf2djvu.googlecode.com/files/${PN}_${PV}.tar.gz"
+SRC_URI="http://pdf2djvu.googlecode.com/files/${NAME}_${VERSION}.tar.gz"
 PATCH_URI="01-setlocale.patch"
 
 REQUIRES="djvulibre"
