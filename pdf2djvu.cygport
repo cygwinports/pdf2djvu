@@ -1,6 +1,6 @@
 NAME="pdf2djvu"
 VERSION=0.7.19
-RELEASE=1
+RELEASE=2
 CATEGORY="Graphics"
 SUMMARY="PDF to DjVu converter"
 DESCRIPTION="pdf2djvu creates DjVu files from PDF files. It's able to extract
