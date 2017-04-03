@@ -1,12 +1,12 @@
 NAME="pdf2djvu"
-VERSION=0.9.4
+VERSION=0.9.5
 RELEASE=1
 CATEGORY="Graphics"
 SUMMARY="PDF to DjVu converter"
 DESCRIPTION="pdf2djvu creates DjVu files from PDF files. It's able to extract
 graphics, text, hyperlinks, bookmarks, and metadata."
 HOMEPAGE="http://jwilk.net/software/pdf2djvu"
-SRC_URI="https://bitbucket.org/jwilk/pdf2djvu/downloads/pdf2djvu-${VERSION}.tar.xz"
+SRC_URI="https://github.com/jwilk/pdf2djvu/releases/download/${VERSION}/pdf2djvu-${VERSION}.tar.xz"
 PATCH_URI="01-setlocale.patch"
 
 REQUIRES="djvulibre"
