@@ -1,5 +1,5 @@
 NAME="pdf2djvu"
-VERSION=0.9.7
+VERSION=0.9.8
 RELEASE=1
 CATEGORY="Graphics"
 SUMMARY="PDF to DjVu converter"
